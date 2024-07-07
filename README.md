@@ -1,2 +1,2 @@
 # CV-MOS
- Cross-View Model for Motion Segmentation
+ A Cross-View Model for Motion Segmentation
